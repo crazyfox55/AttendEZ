@@ -11,6 +11,6 @@ namespace AttendEZData
 
         }
 
-        public DbSet<Organization> Users { get; set; }
+        public DbSet<Organization> Organizations { get; set; }
     }
 }
