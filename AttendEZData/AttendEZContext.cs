@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
+﻿using AttendEZData.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AttendEZData
 {
